@@ -9,8 +9,8 @@
           "allowedRoles": ["authenticated"]
         },
         {
-          "route": "/.auth/login/aad",
+          "route": "/.auth/login/github",
           "statusCode": 404
         }
-      ],
+      ]
 }
